@@ -17,3 +17,10 @@
   <li>Telf: <a href="tel:0959157458">095-915-7458.</a></li>
   <li> Correo: <a href="mailto:echavezc2@est.ups.edu.ec">echavezc2@est.ups.edu.ec</a></li>
 </ul>
+
+<ul>Bibliografia
+ <li>https://www.cursoguitarra.net/cms/</li>
+ <li>https://www.guitarraenunclic.com/curso-de-guitarra/principiantes/gratis.html</li>
+ <li>https://www.guitarraviva.com/curso-de-guitarra-para-principiantes/</li>
+ <li>https://lacuerda.net/Recursos/cursoguitarra/</li>
+ </ul>
