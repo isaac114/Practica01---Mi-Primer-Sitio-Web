@@ -10,4 +10,4 @@
   <li> link to files within a website with hypertext links</li>
  </ul>
 <h1>Resultados Obtenidos<h1>
- <p>Diseña, estructura y organiza de una mejor manera los sitios de web y de negocios en Interne</p>
+<h1>Diseña, estructura y organiza de una mejor manera los sitios de web y de negocios en Interne</h1>
